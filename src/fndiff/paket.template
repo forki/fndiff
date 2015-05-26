@@ -1,0 +1,23 @@
+type project
+owners
+    vivainio@gmail.com
+authors 
+    vivainio@gmail.com
+projectUrl
+    http://github.com/vivainio/fndiff
+iconUrl
+    https://raw.githubusercontent.com/vivainio/fndiff/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/vivainio/fndiff/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    merge diff
+summary
+    Merge by function
+description
+    Merge files by function
+
+
